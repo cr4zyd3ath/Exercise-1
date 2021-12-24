@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\bin\Debug\netcoreapp2.1\Ficha1_ex7.deps.json
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\bin\Debug\netcoreapp2.1\Ficha1_ex7.runtimeconfig.json
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\bin\Debug\netcoreapp2.1\Ficha1_ex7.runtimeconfig.dev.json
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\bin\Debug\netcoreapp2.1\Ficha1_ex7.dll
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\bin\Debug\netcoreapp2.1\Ficha1_ex7.pdb
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\obj\Debug\netcoreapp2.1\Ficha1_ex7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\obj\Debug\netcoreapp2.1\Ficha1_ex7.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\obj\Debug\netcoreapp2.1\Ficha1_ex7.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\obj\Debug\netcoreapp2.1\Ficha1_ex7.dll
+C:\Users\aluno\Desktop\Paulo_PSI\Ficha1_ex7\obj\Debug\netcoreapp2.1\Ficha1_ex7.pdb
